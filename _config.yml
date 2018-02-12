@@ -6,7 +6,8 @@
 title: Juan Estruch
 email: jnestruch@gmail.com
 description: A simple personal page powered by jekyll.
-url: https://jnestruch.github.io/ # the base hostname & protocol for your site
+#url: https://jnestruch.github.io/ # the base hostname & protocol for your site
+url: "jnestruch.com"
 keywords: ["Programming", "SAP", "Python","Trading"]
 
 #
