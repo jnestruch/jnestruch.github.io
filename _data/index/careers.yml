@@ -1,16 +1,25 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Google
-  link: http://www.google.com/
-  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Programming Internship
+- name: Freelance
+  date: November 2010 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Senior Consultant
 
-- name: Facebook
-  link: http://www.facebook.com/
-  date: May 2014 - July 2017
-  job: Web Assistant
+- name: Q-IT consulting
+  link: 
+  date: 2007 - 2010
+  job: Managing Director
 
-- name: SAP
-  link: https://www.sap.com/
-  date: 2010 - 2014
+- name: Cadbury
+  link: https://www.cadbury.co.uk/
+  date: 2006
+  job: OTC Development Manager
+
+- name: Realtech
+  link: http://www.techedgegroup.com/
+  date: 2004 - 2005
+  job: Consultant
+
+- name: Infoseg
+  link: http://www.infoseg.com/
+  date: 1996 - 2003
   job: Software Developer

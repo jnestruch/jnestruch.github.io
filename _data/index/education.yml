@@ -1,8 +1,11 @@
-- name: Massachusets Instutite of Technology
-  link: http://web.mit.edu/
-  date: 2011 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br> (expected graduation in 2019)
+- name: EAE Business School
+  link: http://www.eae.es/
+  date: 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
 
-- name: Harvard
-  link: http://www.harvard.edu/
-  date: 2007 - 2011
+- name: UPC BarcelonaTECH
+  link: http://http://www.upc.edu/
+  date: 2003-2004
+
+- name: Gimbernat
+  link: http://www.eug.es/
+  date: 1998-2002

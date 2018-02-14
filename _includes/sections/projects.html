@@ -1,9 +1,10 @@
-<h1><span data-i18n="skills.my_skills">Projects</span></h1>
+<h1><span data-i18n="skills.my_skills">Main Projects</span></h1>
 
 {% for project in site.data.index.projects %}
     <div class="row">
             <div class="col">
-                <h2 style="margin: 0">{{ project.name }}</h2>
+                <h3 style="margin: 0">{{ project.name }}</h3>
+                <i>Started: {{project.date}} --- {{project.dura}} months</i>
                 <p style="margin: 0">{{ project.descr }}</p>
 
                 {% if project.github %}
@@ -14,5 +15,5 @@
                 {% endif %}
 
             </div>
-    </div>
+    </div><br><br>
 {% endfor %}

@@ -1,4 +1,65 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
-  image: pong.png
-  github: https://github.com/renyuanz/leonids
+#- name: leonids
+#  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+#  image: pong.png
+#  github: https://github.com/renyuanz/leonids
+- name: "SAP CRM Upgrade"
+  date: "January 2017"
+  dura: 6
+  descr: "Based in Venice, working as <b>Consultant Lead</b>.  The scope of the project was to upgrade from EHP1 to EHP4 to be able to 
+  use the new functionality on the SAP CRM Interaction Center platform."
+
+- name: "SAP CRM (CIC) - SAP Contact Center 7"
+  date: "April 2015"
+  dura: 25
+  descr: "Based on Venice, working as <b>Solution Architect</b> in the implementation of a 
+  Telephony solution (SAP BCM 7) in the existing SAP CRM system.  The scope was to change the existing 
+  Telephony solution and E-mail system (Lotus) for the Call Center department for Customer Services around Europe, 
+  changing all existing solutions while integrating the functionalities from third party systems in 
+  SAP CRM and the new SAP BCM platform."
+
+- name: "SAP CRM Implementation"
+  date: "April 2012"
+  dura: 14
+  descr: "SAP CRM –ECC –Lean order Management. Based on Zurich / Venice, working as <b>Senior Consultant</b> in a fresh SAP CRM 7 
+  project (Sales Oriented) integrated with HR and ECC. The scope of the project was to implement the new Sales Force Automation 
+  solution based on SAP CRM using the following capabilities, Account management, Fact Sheet,Groupware, 
+  Activity Management (Appointments, Tasks,and Interaction Logs), Survey, Activity Scheduling, Leads, Opportunities, 
+  Quotations and Sales Orders (using Lean Order) among others."
+
+- name: "SAP CRM 7 (EIC / CIC) – SAP BCM 6 Implementation"
+  date: "June 2010"
+  dura: 20
+  descr: "Based on Dublin, working as <b>Functional Lead</b> in the implementation of an integrated Telephony solution SAP CRM 7
+  (Employee Interaction Center)-SAP BCM 6 in 5 countries.  The scope of the project was to define the new platform for the 
+  Employee Customer Service to solve the inquiries from the employees from five operating business replacing the existing Remedy solution. 
+  The solution enabled different channels to support employees including E-mail, Telephony and Web forms."
+
+- name: "SAP CRM 2007 - ISU Implementation"
+  date: "January 2008"
+  dura: 25
+  descr: "Implementation project of SAP CRM 2007 ISU (Account management, CIC, marketing, and Opportunity management). 
+  Working as a <b>Project Supervisor</b> from the customer side, including tasks of supervisor, analysis, and validation of the solution proposal 
+  done by the implementation side (Deloitte), modifying the solution proposal with the best option that fits the customer requirements. 
+  Quality and project tracking of the solution."
+
+- name: "SAP ECC Upgrade "
+  date: "December 2007"
+  dura: 9
+  descr: "Upgrade project (R/3 4.6B to ECC 6.0), working as <b>Project Manager</b> for managing the tasks needed to maintain the CRM 4.0 
+  solution in the new landscape. CRM upgrade to Unicode and build of the new common landscape for Southern Europe. 
+  Project management, customizing and system development tasks, including MI 2.5 solution for the sales force automation.
+  Responsible to lead a team of 5 people."
+
+- name: "SAP CRM 4 Mobile Sales Implementation"
+  date: "August 2006"
+  dura: 7
+  descr: "Working as <b>Senior consultant</b> in a CRM 4.0 mobile Sales implementation project (including IPC). 
+  Gathering requests, project analysis, customizing and training to end users."
+
+- name: "SAP CRM 4 Implementation"
+  date: "May 2004"
+  dura: 17
+  descr: "Working as <b>Consultant</b>, the scope was to implement the CRM system, Mobile Infrastructure and Data Warehouse integration 
+  with the existing BOARD solution. Gathering requests, project analysis, customizing, ABAP and Java programming, training (CRM & MI) and 
+  post go-live support."
+
