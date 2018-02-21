@@ -63,3 +63,18 @@
   with the existing BOARD solution. Gathering requests, project analysis, customizing, ABAP and Java programming, training (CRM & MI) and 
   post go-live support."
 
+- name: "Online insurance project"
+  date: "2002"
+  dura: 20
+  descr: "Working as <b>Developer</b>, the goal of the project was to deliver a portal for brokerages of insurances and urgent transport
+  companies using Open source technologies (Perl - Mysql)"
+
+- name: "Intranet"
+  date: "May 2000"
+  dura: 14
+  descr: "Working as <b>Developer</b> in a project for creating an Intranet for the internal employees for a Bank using Java and Oracle."
+
+
+
+
+
