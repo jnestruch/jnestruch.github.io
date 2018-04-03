@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Project Mgmt., CRM, CIC, OTC, Development, BI, ECC
-percentage: 70, 80, 70, 60, 50, 30,50
+aspects: CRM, CIC, Authorizations, ABAP, BI, ECC
+percentage: 80, 60, 50, 40, 30, 50
